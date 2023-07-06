@@ -1,0 +1,13 @@
+
+█▀█ █▀▀ █▀█ ▀█▀ █░█ █▀█ ▄▀█ █▄░█   █▀▀ ▄▀█ █ █▀ ▄▄ █▀▀ ▀█▀ █▀▀
+█▀▀ ██▄ █▀▄ ░█░ █▄█ █▀▄ █▀█ █░▀█   █▀░ █▀█ █ ▄█ ░░ █▄▄ ░█░ █▀░
+
+---------------------------------------------------------------
+
+- FORMAT CTF FAISCTF{FLAG}
+- DILARANG RECODE SCRIPT 
+- DILARANG MERUBAH SCRIPT TANPA IZIN
+
+NOTE !
+JIKA MELANGGAR KETENTUTAN MAKA MENDAPATKAN DOSA ADMIN TIDAK TERIMA 
+LEVEL NYA ADA 5, ADMIN AKAN UPDATE LEVELNYA JIKA RAME ^_^
